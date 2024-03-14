@@ -1,0 +1,9 @@
+[submodule "lib/molex-poe"]
+	path = lib/molex-poe
+	url = https://github.com/besi/kicad-molex-poe
+[submodule "lib/mems-mic"]
+	path = lib/mems-mic
+	url = https://github.com/besi/kicad-mems-mic
+[submodule "lib/adafruit-MAX98357"]
+	path = lib/adafruit-MAX98357
+	url = https://github.com/besi/kicad-adafruit-MAX98357
